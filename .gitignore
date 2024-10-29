@@ -1,10 +1,4 @@
 Pipeline/out/
-Pipeline/blender-3.2.2-linux-x64/
 Pipeline/SynthData/
-Pipeline/buffer.json
-instant-ngp/
-nvdiffrec/
-nvdiffrecmc/
-colmap/
-mve/
-mvs-texturing/
+Pipeline/blender-3.2.2-linux-x64/
+
