@@ -47,8 +47,15 @@ def run_instantngp(args):
         print(f"===== generating mask for {image} =====")
         input_image = Image.open(os.path.join(IMAGEDIR, image))
         resolution = input_image.size
-        out = Image.fromarray((model({"x": input_image})["pred_0"]["cca"]["mask"])*255)
-        out.save(os.path.join(MASKDIR, os.path.basename(image)))
+        out = np.array((model({"x": input_image})["pred_0"]["cca"]["mask"])*255)
+
+        i_one = out != 0
+        i_zero = out == 0
+        out[i_one] = 0
+        out[i_zero] = 1
+        
+        mask = Image.fromarray(out)
+        mask.save(os.path.join(MASKDIR, os.path.basename(image)))
     for mask in os.listdir(MASKDIR):
         print(f"===== rescaling mask: {mask} =====")
         _mask = cv2.imread(os.path.join(MASKDIR, mask))
@@ -178,9 +185,25 @@ def convert(args):
 				"frames": [],
 			}
         else:
+            camera = cameras[1]
             out = {
+				"camera_angle_x": camera["camera_angle_x"],
+				"camera_angle_y": camera["camera_angle_y"],
+				"fl_x": camera["fl_x"],
+				"fl_y": camera["fl_y"],
+				"k1": camera["k1"],
+				"k2": camera["k2"],
+				"k3": camera["k3"],
+				"k4": camera["k4"],
+				"p1": camera["p1"],
+				"p2": camera["p2"],
+				"is_fisheye": camera["is_fisheye"],
+				"cx": camera["cx"],
+				"cy": camera["cy"],
+				"w": camera["w"],
+				"h": camera["h"],
+				"aabb_scale": AABB_SCALE,
 				"frames": [],
-				"aabb_scale": AABB_SCALE
 			}
 
         up = np.zeros(3)
@@ -217,8 +240,8 @@ def convert(args):
                     up += c2w[0:3,1]
 
                 frame = {"file_path":os.path.join("images", name),"sharpness":b,"transform_matrix": c2w}
-                if len(cameras) != 1:
-                    frame.update(cameras[int(elems[8])])
+                # if len(cameras) != 1:
+                #    frame.update(cameras[int(elems[8])])
                 out["frames"].append(frame)
 
 

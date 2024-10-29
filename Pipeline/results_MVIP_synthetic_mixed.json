@@ -1,0 +1,362 @@
+{
+    "eiba_1_10": {
+        "top1_ACC": "6.0",
+        "confidence": "68.73\u00b120.66",
+        "mistaken": [
+            "eiba_2_13",
+            "eiba_7_17"
+        ],
+        "top3_ACC": "74.0",
+        "output": "[eiba_1_10], [6.0], [74.0], [68.73\u00b120.66]"
+    },
+    "eiba_2_8": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_4_14",
+            "bosch_0_120_489_435",
+            "eiba_4_25",
+            "eiba_0_5",
+            "eiba_7_15",
+            "eiba_7_9",
+            "Bosch_028_903_027P",
+            "eiba_21_1",
+            "eiba_1_3",
+            "eiba_4_10",
+            "eiba_5_5",
+            "eiba_0_7",
+            "AU17001153",
+            "denso_28212885",
+            "eiba_1_16",
+            "eiba_4_2",
+            "eiba_1_5",
+            "eiba_4_31",
+            "eiba_4_23",
+            "eiba_2_12",
+            "Bosch_1241-77968924-02"
+        ],
+        "top3_ACC": "0.0",
+        "output": "[eiba_2_8], [0.0], [0.0], [nan\u00b1nan]"
+    },
+    "eiba_1_9": {
+        "top1_ACC": "4.0",
+        "confidence": "69.05\u00b118.84",
+        "mistaken": [
+            "eiba_2_16",
+            "eiba_2_5"
+        ],
+        "top3_ACC": "92.0",
+        "output": "[eiba_1_9], [4.0], [92.0], [69.05\u00b118.84]"
+    },
+    "eiba_0_5": {
+        "top1_ACC": "88.0",
+        "confidence": "95.82\u00b113.76",
+        "mistaken": [
+            "hitachi_s114-943A",
+            "eiba_1_4",
+            "eiba_4_19",
+            "eiba_7_6"
+        ],
+        "top3_ACC": "92.0",
+        "output": "[eiba_0_5], [88.0], [92.0], [95.82\u00b113.76]"
+    },
+    "eiba_0_6": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_4_14",
+            "eiba_5_2",
+            "hitachi_s114-943A",
+            "eiba_Denso_9_3",
+            "eiba_4_19",
+            "eiba_0_9",
+            "220353_ECSG21",
+            "eiba_4_37",
+            "eiba_4_6",
+            "eiba_9_3",
+            "hellr_8ea_011610411",
+            "eiba_0_16",
+            "eiba_22_9"
+        ],
+        "top3_ACC": "0.0",
+        "output": "[eiba_0_6], [0.0], [0.0], [nan\u00b1nan]"
+    },
+    "eiba_4_24": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_1_11",
+            "eiba_7_8",
+            "eiba_22_15",
+            "eiba_4_22",
+            "eiba_4_13",
+            "eiba_0_7",
+            "eiba_0_17",
+            "eiba_4_10",
+            "eiba_1_7"
+        ],
+        "top3_ACC": "0.0",
+        "output": "[eiba_4_24], [0.0], [0.0], [nan\u00b1nan]"
+    },
+    "eiba_4_9": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_4_14",
+            "eiba_4_19",
+            "eiba_4_13",
+            "eiba_22_20",
+            "eiba_5_18",
+            "eiba_21_3",
+            "eiba_2_3",
+            "eiba_4_20",
+            "eiba_7_12",
+            "eiba_4_4"
+        ],
+        "top3_ACC": "0.0",
+        "output": "[eiba_4_9], [0.0], [0.0], [nan\u00b1nan]"
+    },
+    "eiba_4_7": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_7_21",
+            "eiba_5_1",
+            "eiba_4_31",
+            "eiba_4_23",
+            "denso_28212885",
+            "eiba_4_28",
+            "eiba_4_33",
+            "eiba_1_12",
+            "eiba_5_4",
+            "eiba_22_9"
+        ],
+        "top3_ACC": "0.0",
+        "output": "[eiba_4_7], [0.0], [0.0], [nan\u00b1nan]"
+    },
+    "eiba_1_13": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_2_13",
+            "eiba_1_18",
+            "eiba_5_9",
+            "eiba_4_13",
+            "eiba_1_12"
+        ],
+        "top3_ACC": "0.0",
+        "output": "[eiba_1_13], [0.0], [0.0], [nan\u00b1nan]"
+    },
+    "eiba_0_14": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_1_2",
+            "eiba_0_11",
+            "eiba_6_1",
+            "eiba_0_9",
+            "eiba_7_16",
+            "eiba_2_16",
+            "eiba_4_23",
+            "eiba_0_7",
+            "eiba_7_15",
+            "eiba_9_33",
+            "eiba_9_28",
+            "eiba_4_26",
+            "eiba_7_8"
+        ],
+        "top3_ACC": "0.0",
+        "output": "[eiba_0_14], [0.0], [0.0], [nan\u00b1nan]"
+    },
+    "eiba_4_27": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_4_28",
+            "eiba_0_11",
+            "eiba_2_14",
+            "eiba_9_31"
+        ],
+        "top3_ACC": "0.0",
+        "output": "[eiba_4_27], [0.0], [0.0], [nan\u00b1nan]"
+    },
+    "eiba_0_2": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_4_32",
+            "eiba_4_13",
+            "eiba_21_3",
+            "eiba_7_7",
+            "eiba_4_20",
+            "eiba_22_15",
+            "eiba_0_12",
+            "eiba_7_6"
+        ],
+        "top3_ACC": "4.0",
+        "output": "[eiba_0_2], [0.0], [4.0], [nan\u00b1nan]"
+    },
+    "eiba_5_2": {
+        "top1_ACC": "2.0",
+        "confidence": "68.11\u00b10.0",
+        "mistaken": [
+            "hellr_8ea012527471",
+            "valeo_c631789r",
+            "eiba_0_11",
+            "eiba_0_13",
+            "eiba_22_15",
+            "eiba_4_32",
+            "polstarter",
+            "eiba_9_28",
+            "eiba_4_33",
+            "eiba_21_3",
+            "eiba_22_17",
+            "eiba_5_14",
+            "eiba_22_9"
+        ],
+        "top3_ACC": "8.0",
+        "output": "[eiba_5_2], [2.0], [8.0], [68.11\u00b10.0]"
+    },
+    "eiba_2_10": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_22_22",
+            "eiba_1_9",
+            "eiba_0_3",
+            "eiba_2_5",
+            "eiba_22_9"
+        ],
+        "top3_ACC": "0.0",
+        "output": "[eiba_2_10], [0.0], [0.0], [nan\u00b1nan]"
+    },
+    "eiba_1_1": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_5_11",
+            "eiba_1_11",
+            "eiba_4_22",
+            "eiba_0_17",
+            "eiba_4_15",
+            "eiba_7_7",
+            "eiba_0_8",
+            "eiba_2_1",
+            "eiba_7_4",
+            "eiba_4_4",
+            "eiba_5_5",
+            "eiba_7_8"
+        ],
+        "top3_ACC": "4.0",
+        "output": "[eiba_1_1], [0.0], [4.0], [nan\u00b1nan]"
+    },
+    "eiba_4_6": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_0_13",
+            "eiba_7_14",
+            "eiba_4_19",
+            "eiba_9_36",
+            "eiba_1_11",
+            "eiba_4_23",
+            "eiba_0_17",
+            "eiba_1_16",
+            "eiba_22_17",
+            "eiba_4_16",
+            "eiba_4_5"
+        ],
+        "top3_ACC": "2.0",
+        "output": "[eiba_4_6], [0.0], [2.0], [nan\u00b1nan]"
+    },
+    "eiba_0_10": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_4_14",
+            "eiba_4_22",
+            "eiba_4_13",
+            "eiba_0_17",
+            "eiba_7_7",
+            "eiba_0_12"
+        ],
+        "top3_ACC": "0.0",
+        "output": "[eiba_0_10], [0.0], [0.0], [nan\u00b1nan]"
+    },
+    "eiba_4_11": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_0_13",
+            "eiba_4_3",
+            "eiba_22_12",
+            "eiba_1_17",
+            "eiba_4_15",
+            "eiba_4_12",
+            "eiba_4_20",
+            "eiba_1_16",
+            "eiba_22_15",
+            "eiba_0_12"
+        ],
+        "top3_ACC": "2.0",
+        "output": "[eiba_4_11], [0.0], [2.0], [nan\u00b1nan]"
+    },
+    "eiba_2_7": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_5_11",
+            "eiba_0_12",
+            "eiba_1_11",
+            "eiba_1_7",
+            "eiba_4_25",
+            "eiba_22_19",
+            "eiba_22_15",
+            "eiba_4_22",
+            "eiba_0_7",
+            "eiba_0_17",
+            "eiba_2_12",
+            "eiba_7_7",
+            "eiba_4_30",
+            "eiba_4_10",
+            "eiba_4_4",
+            "eiba_5_5",
+            "eiba_7_8"
+        ],
+        "top3_ACC": "0.0",
+        "output": "[eiba_2_7], [0.0], [0.0], [nan\u00b1nan]"
+    },
+    "eiba_4_29": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_4_14",
+            "eiba_0_11",
+            "eiba_4_19",
+            "eiba_4_25",
+            "eiba_4_13",
+            "eiba_4_20",
+            "eiba_22_15",
+            "eiba_5_7"
+        ],
+        "top3_ACC": "0.0",
+        "output": "[eiba_4_29], [0.0], [0.0], [nan\u00b1nan]"
+    },
+    "eiba_0_19": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_4_14",
+            "eiba_0_11",
+            "eiba_4_19",
+            "eiba_0_9",
+            "eiba_7_16",
+            "eiba_4_20",
+            "eiba_22_15",
+            "nissan_j521_1091",
+            "eiba_0_16"
+        ],
+        "top3_ACC": "6.0",
+        "output": "[eiba_0_19], [0.0], [6.0], [nan\u00b1nan]"
+    }
+}

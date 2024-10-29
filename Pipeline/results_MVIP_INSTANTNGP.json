@@ -1,0 +1,425 @@
+{
+    "eiba_0_14": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_7_11",
+            "eiba_1_2",
+            "eiba_22_12",
+            "eiba_4_23",
+            "eiba_4_28",
+            "eiba_4_15",
+            "eiba_0_7",
+            "eiba_9_28",
+            "eiba_9_35",
+            "eiba_7_15",
+            "eiba_0_9",
+            "eiba_6_1",
+            "eiba_1_5",
+            "eiba_2_16",
+            "eiba_4_22",
+            "eiba_5_14"
+        ],
+        "top3_ACC": "0.0",
+        "output": "[eiba_0_14], [0.0], [0.0], [nan\u00b1nan]"
+    },
+    "eiba_2_8": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_9_34",
+            "eiba_4_13",
+            "valeo_180902_0131_HF_NVL4",
+            "bosch_0_120_489_435",
+            "eiba_4_10",
+            "eiba_9_26",
+            "chrysler_05033125AB",
+            "eiba_1_3",
+            "eiba_7_15",
+            "eiba_6_1",
+            "eiba_5_18",
+            "casco_cst10287AS",
+            "Bosch_028_903_027P",
+            "eiba_7_21",
+            "eiba_5_5",
+            "eiba_4_31"
+        ],
+        "top3_ACC": "6.0",
+        "output": "[eiba_2_8], [0.0], [6.0], [nan\u00b1nan]"
+    },
+    "eiba_4_9": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_2_3",
+            "Bosch_BR28_N1",
+            "eiba_4_13",
+            "Bosch_eiba_9_2",
+            "eiba_4_1",
+            "eiba_2_1",
+            "bosch_BR_14_C_L",
+            "eiba_5_18",
+            "eiba_21_3",
+            "eiba_09_01",
+            "Bosch_YY18I17"
+        ],
+        "top3_ACC": "0.0",
+        "output": "[eiba_4_9], [0.0], [0.0], [nan\u00b1nan]"
+    },
+    "eiba_4_27": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_2_4",
+            "eiba_4_28",
+            "eiba_22_19",
+            "eiba_2_6",
+            "eiba_7_21"
+        ],
+        "top3_ACC": "0.0",
+        "output": "[eiba_4_27], [0.0], [0.0], [nan\u00b1nan]"
+    },
+    "eiba_4_29": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_7_11",
+            "eiba_22_15",
+            "eiba_2_12",
+            "eiba_0_11",
+            "eiba_2_4",
+            "eiba_22_20",
+            "eiba_4_15",
+            "eiba_Denso_9_3",
+            "eiba_4_20",
+            "eiba_4_19",
+            "Bosch_F000_BL0_8D2",
+            "eiba_5_18",
+            "eiba_21_3",
+            "eiba_7_7",
+            "hellr_8ea012527471",
+            "eiba_0_12"
+        ],
+        "top3_ACC": "2.0",
+        "output": "[eiba_4_29], [0.0], [2.0], [nan\u00b1nan]"
+    },
+    "eiba_2_7": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_9_30",
+            "eiba_7_4",
+            "eiba_5_18",
+            "eiba_5_5",
+            "eiba_4_22",
+            "eiba_2_12",
+            "eiba_4_1",
+            "eiba_1_3",
+            "eiba_4_30",
+            "eiba_22_15",
+            "eiba_0_7",
+            "eiba_2_6",
+            "eiba_5_11",
+            "Bosch_BR28_N1",
+            "eiba_4_10",
+            "eiba_7_8",
+            "eiba_7_7",
+            "eiba_0_12",
+            "eiba_0_17"
+        ],
+        "top3_ACC": "0.0",
+        "output": "[eiba_2_7], [0.0], [0.0], [nan\u00b1nan]"
+    },
+    "eiba_0_6": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_4_14",
+            "nissan_j521_1091",
+            "eiba_4_13",
+            "eiba_Denso_9_3",
+            "eiba_7_14",
+            "rps201523",
+            "eiba_1_14",
+            "eiba_6_1",
+            "eiba_0_9",
+            "eiba_5_18",
+            "Bosch_028_903_027P",
+            "eiba_9_3",
+            "eiba_5_5",
+            "eiba_4_37"
+        ],
+        "top3_ACC": "0.0",
+        "output": "[eiba_0_6], [0.0], [0.0], [nan\u00b1nan]"
+    },
+    "eiba_1_1": {
+        "top1_ACC": "2.0",
+        "confidence": "88.41\u00b10.0",
+        "mistaken": [
+            "eiba_5_11",
+            "eiba_9_30",
+            "eiba_7_4",
+            "eiba_0_7",
+            "eiba_4_4",
+            "eiba_1_3",
+            "eiba_5_18",
+            "eiba_7_7",
+            "eiba_5_5"
+        ],
+        "top3_ACC": "6.0",
+        "output": "[eiba_1_1], [2.0], [6.0], [88.41\u00b10.0]"
+    },
+    "eiba_1_13": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_1_2",
+            "eiba_4_13",
+            "eiba_5_6",
+            "eiba_1_18",
+            "eiba_6_1",
+            "eiba_1_3",
+            "eiba_5_9",
+            "eiba_7_21",
+            "eiba_0_17"
+        ],
+        "top3_ACC": "0.0",
+        "output": "[eiba_1_13], [0.0], [0.0], [nan\u00b1nan]"
+    },
+    "eiba_4_24": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_5_11",
+            "eiba_22_12",
+            "eiba_4_13",
+            "eiba_4_1",
+            "eiba_4_10",
+            "eiba_1_7",
+            "eiba_4_22",
+            "eiba_1_3",
+            "eiba_1_11",
+            "eiba_4_30",
+            "eiba_5_18",
+            "eiba_9_27",
+            "eiba_7_8",
+            "eiba_2_6",
+            "eiba_7_7",
+            "eiba_5_5",
+            "eiba_0_17"
+        ],
+        "top3_ACC": "0.0",
+        "output": "[eiba_4_24], [0.0], [0.0], [nan\u00b1nan]"
+    },
+    "eiba_0_5": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "AS_s0214",
+            "eiba_7_11",
+            "eiba_5_1",
+            "valeo_180902_0131_HF_NVL4",
+            "eiba_7_4",
+            "eiba_Denso_9_3",
+            "polstarter",
+            "eiba_9_26",
+            "eiba_5_6",
+            "eiba_7_6",
+            "Bosch_1_0115_831_376",
+            "eiba_6_1",
+            "eiba_1_5",
+            "eiba_9_27",
+            "Bosch_028_903_027P",
+            "eiba_09_01",
+            "rps201523",
+            "eiba_5_14"
+        ],
+        "top3_ACC": "0.0",
+        "output": "[eiba_0_5], [0.0], [0.0], [nan\u00b1nan]"
+    },
+    "eiba_0_10": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_0_12",
+            "eiba_4_4",
+            "eiba_6_1",
+            "eiba_5_18",
+            "eiba_2_6",
+            "eiba_21_3",
+            "eiba_7_7",
+            "eiba_4_22"
+        ],
+        "top3_ACC": "0.0",
+        "output": "[eiba_0_10], [0.0], [0.0], [nan\u00b1nan]"
+    },
+    "eiba_0_19": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_7_11",
+            "eiba_0_16",
+            "eiba_0_11",
+            "nissan_j521_1091",
+            "eiba_7_4",
+            "eiba_4_15",
+            "herth_buss_J5112118_2961200",
+            "eiba_0_9",
+            "eiba_5_18",
+            "eiba_4_19",
+            "Bosch_028_903_027P",
+            "eiba_0_12",
+            "eiba_5_14"
+        ],
+        "top3_ACC": "0.0",
+        "output": "[eiba_0_19], [0.0], [0.0], [nan\u00b1nan]"
+    },
+    "eiba_1_10": {
+        "top1_ACC": "36.0",
+        "confidence": "81.96\u00b123.25",
+        "mistaken": [
+            "eiba_7_17",
+            "eiba_22_4",
+            "eiba_22_25",
+            "eiba_6_1",
+            "eiba_7_21",
+            "eiba_22_11",
+            "eiba_7_3"
+        ],
+        "top3_ACC": "60.0",
+        "output": "[eiba_1_10], [36.0], [60.0], [81.96\u00b123.25]"
+    },
+    "eiba_4_7": {
+        "top1_ACC": "2.0",
+        "confidence": "41.03\u00b10.0",
+        "mistaken": [
+            "bosch_0986040600",
+            "eiba_4_3",
+            "eiba_5_4",
+            "eiba_2_4",
+            "polstarter",
+            "eiba_7_9",
+            "eiba_7_21",
+            "eiba_22_9",
+            "eiba_22_10",
+            "eiba_21_19",
+            "eiba_4_31"
+        ],
+        "top3_ACC": "2.0",
+        "output": "[eiba_4_7], [2.0], [2.0], [41.03\u00b10.0]"
+    },
+    "eiba_1_9": {
+        "top1_ACC": "14.0",
+        "confidence": "41.42\u00b111.71",
+        "mistaken": [
+            "eiba_0_7",
+            "eiba_5_5",
+            "eiba_0_3",
+            "eiba_2_16",
+            "eiba_4_22"
+        ],
+        "top3_ACC": "49.0",
+        "output": "[eiba_1_9], [14.0], [49.0], [41.42\u00b111.71]"
+    },
+    "eiba_4_6": {
+        "top1_ACC": "2.0",
+        "confidence": "54.53\u00b10.0",
+        "mistaken": [
+            "eiba_4_5",
+            "eiba_7_1",
+            "eiba_4_3",
+            "eiba_22_20",
+            "eiba_4_10",
+            "eiba_5_6",
+            "denso_28212885",
+            "eiba_9_36",
+            "eiba_1_3",
+            "eiba_5_18",
+            "eiba_0_13",
+            "eiba_7_7",
+            "eiba_7_14",
+            "eiba_7_21",
+            "eiba_4_31",
+            "eiba_4_37",
+            "eiba_0_17",
+            "eiba_1_16"
+        ],
+        "top3_ACC": "6.0",
+        "output": "[eiba_4_6], [2.0], [6.0], [54.53\u00b10.0]"
+    },
+    "eiba_5_2": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_4_37",
+            "eiba_4_23",
+            "eiba_5_4",
+            "eiba_4_28",
+            "polstarter",
+            "eiba_9_28",
+            "eiba_5_3",
+            "eiba_5_18",
+            "casco_cst10287AS",
+            "eiba_21_3",
+            "hellr_8ea012527471",
+            "eiba_7_21",
+            "eiba_5_5",
+            "denso_28212885"
+        ],
+        "top3_ACC": "2.0",
+        "output": "[eiba_5_2], [0.0], [2.0], [nan\u00b1nan]"
+    },
+    "eiba_0_2": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_2_12",
+            "eiba_4_13",
+            "eiba_5_5",
+            "eiba_5_18",
+            "eiba_7_7",
+            "eiba_22_15",
+            "eiba_0_12"
+        ],
+        "top3_ACC": "0.0",
+        "output": "[eiba_0_2], [0.0], [0.0], [nan\u00b1nan]"
+    },
+    "eiba_4_11": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "bosch_0986040600",
+            "eiba_22_12",
+            "eiba_4_15",
+            "eiba_0_7",
+            "eiba_4_22",
+            "eiba_4_12",
+            "eiba_7_7",
+            "Bosch_028_903_027P",
+            "eiba_22_15",
+            "eiba_0_12",
+            "eiba_22_18",
+            "eiba_1_16"
+        ],
+        "top3_ACC": "0.0",
+        "output": "[eiba_4_11], [0.0], [0.0], [nan\u00b1nan]"
+    },
+    "eiba_2_10": {
+        "top1_ACC": "0.0",
+        "confidence": "nan\u00b1nan",
+        "mistaken": [
+            "eiba_2_5",
+            "Bosch_BR28_N1",
+            "eiba_21_5",
+            "eiba_4_22",
+            "eiba_0_3",
+            "eiba_22_22",
+            "eiba_5_18",
+            "eiba_1_9",
+            "eiba_22_9",
+            "eiba_5_5"
+        ],
+        "top3_ACC": "0.0",
+        "output": "[eiba_2_10], [0.0], [0.0], [nan\u00b1nan]"
+    }
+}

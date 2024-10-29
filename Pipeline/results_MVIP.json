@@ -1,0 +1,228 @@
+{
+    "eiba_4_29": {
+        "top1_ACC": "100.0",
+        "confidence": "99.6\u00b11.63",
+        "mistaken": [],
+        "top3_ACC": "100.0",
+        "output": "[eiba_4_29], [100.0], [100.0], [99.6\u00b11.63]"
+    },
+    "eiba_0_14": {
+        "top1_ACC": "76.0",
+        "confidence": "98.7\u00b16.91",
+        "mistaken": [
+            "eiba_0_18",
+            "eiba_0_7",
+            "eiba_22_12",
+            "eiba_4_11",
+            "eiba_4_16",
+            "eiba_9_31"
+        ],
+        "top3_ACC": "82.0",
+        "output": "[eiba_0_14], [76.0], [82.0], [98.7\u00b16.91]"
+    },
+    "eiba_4_9": {
+        "top1_ACC": "74.0",
+        "confidence": "89.44\u00b118.15",
+        "mistaken": [
+            "eiba_4_13",
+            "eiba_4_14",
+            "eiba_21_3",
+            "eiba_2_3",
+            "eiba_4_20",
+            "eiba_4_8",
+            "eiba_22_15"
+        ],
+        "top3_ACC": "86.0",
+        "output": "[eiba_4_9], [74.0], [86.0], [89.44\u00b118.15]"
+    },
+    "eiba_4_7": {
+        "top1_ACC": "100.0",
+        "confidence": "99.97\u00b10.15",
+        "mistaken": [],
+        "top3_ACC": "100.0",
+        "output": "[eiba_4_7], [100.0], [100.0], [99.97\u00b10.15]"
+    },
+    "eiba_5_2": {
+        "top1_ACC": "100.0",
+        "confidence": "99.95\u00b10.21",
+        "mistaken": [],
+        "top3_ACC": "100.0",
+        "output": "[eiba_5_2], [100.0], [100.0], [99.95\u00b10.21]"
+    },
+    "eiba_0_5": {
+        "top1_ACC": "86.0",
+        "confidence": "97.32\u00b18.97",
+        "mistaken": [
+            "eiba_0_8",
+            "valeo_a0061510301",
+            "eiba_22_21",
+            "eiba_7_14"
+        ],
+        "top3_ACC": "90.0",
+        "output": "[eiba_0_5], [86.0], [90.0], [97.32\u00b18.97]"
+    },
+    "eiba_4_11": {
+        "top1_ACC": "93.0",
+        "confidence": "98.27\u00b110.43",
+        "mistaken": [
+            "eiba_22_12",
+            "eiba_0_14"
+        ],
+        "top3_ACC": "96.0",
+        "output": "[eiba_4_11], [93.0], [96.0], [98.27\u00b110.43]"
+    },
+    "eiba_4_6": {
+        "top1_ACC": "70.0",
+        "confidence": "92.58\u00b116.77",
+        "mistaken": [
+            "eiba_0_17",
+            "eiba_7_14",
+            "eiba_4_5",
+            "eiba_0_13",
+            "eiba_21_12",
+            "eiba_4_19",
+            "eiba_1_11",
+            "eiba_4_16",
+            "eiba_1_16"
+        ],
+        "top3_ACC": "84.0",
+        "output": "[eiba_4_6], [70.0], [84.0], [92.58\u00b116.77]"
+    },
+    "eiba_0_6": {
+        "top1_ACC": "100.0",
+        "confidence": "98.71\u00b16.9",
+        "mistaken": [],
+        "top3_ACC": "100.0",
+        "output": "[eiba_0_6], [100.0], [100.0], [98.71\u00b16.9]"
+    },
+    "eiba_1_1": {
+        "top1_ACC": "92.0",
+        "confidence": "97.9\u00b18.11",
+        "mistaken": [
+            "eiba_5_5",
+            "eiba_7_8",
+            "eiba_0_2",
+            "eiba_1_11"
+        ],
+        "top3_ACC": "96.0",
+        "output": "[eiba_1_1], [92.0], [96.0], [97.9\u00b18.11]"
+    },
+    "eiba_4_24": {
+        "top1_ACC": "74.0",
+        "confidence": "95.22\u00b112.54",
+        "mistaken": [
+            "eiba_1_7",
+            "eiba_4_22",
+            "eiba_7_8",
+            "eiba_1_1",
+            "eiba_2_7",
+            "eiba_1_11"
+        ],
+        "top3_ACC": "86.0",
+        "output": "[eiba_4_24], [74.0], [86.0], [95.22\u00b112.54]"
+    },
+    "eiba_1_13": {
+        "top1_ACC": "100.0",
+        "confidence": "100.0\u00b10.0",
+        "mistaken": [],
+        "top3_ACC": "100.0",
+        "output": "[eiba_1_13], [100.0], [100.0], [100.0\u00b10.0]"
+    },
+    "eiba_2_10": {
+        "top1_ACC": "98.0",
+        "confidence": "99.95\u00b10.27",
+        "mistaken": [
+            "eiba_2_5"
+        ],
+        "top3_ACC": "100.0",
+        "output": "[eiba_2_10], [98.0], [100.0], [99.95\u00b10.27]"
+    },
+    "eiba_0_2": {
+        "top1_ACC": "94.0",
+        "confidence": "99.88\u00b10.78",
+        "mistaken": [
+            "eiba_0_12"
+        ],
+        "top3_ACC": "98.0",
+        "output": "[eiba_0_2], [94.0], [98.0], [99.88\u00b10.78]"
+    },
+    "eiba_1_9": {
+        "top1_ACC": "100.0",
+        "confidence": "100.0\u00b10.0",
+        "mistaken": [],
+        "top3_ACC": "100.0",
+        "output": "[eiba_1_9], [100.0], [100.0], [100.0\u00b10.0]"
+    },
+    "eiba_1_10": {
+        "top1_ACC": "72.0",
+        "confidence": "92.78\u00b114.32",
+        "mistaken": [
+            "eiba_0_7",
+            "eiba_7_17",
+            "eiba_22_4",
+            "eiba_2_13"
+        ],
+        "top3_ACC": "84.0",
+        "output": "[eiba_1_10], [72.0], [84.0], [92.78\u00b114.32]"
+    },
+    "eiba_2_7": {
+        "top1_ACC": "50.0",
+        "confidence": "92.22\u00b114.43",
+        "mistaken": [
+            "eiba_1_7",
+            "eiba_4_30",
+            "eiba_4_22",
+            "eiba_7_8",
+            "eiba_1_1",
+            "eiba_4_24",
+            "eiba_22_19",
+            "eiba_0_7",
+            "eiba_0_10",
+            "eiba_7_7"
+        ],
+        "top3_ACC": "70.0",
+        "output": "[eiba_2_7], [50.0], [70.0], [92.22\u00b114.43]"
+    },
+    "eiba_0_10": {
+        "top1_ACC": "40.0",
+        "confidence": "94.72\u00b18.6",
+        "mistaken": [
+            "eiba_0_12",
+            "eiba_0_6",
+            "eiba_4_22"
+        ],
+        "top3_ACC": "66.0",
+        "output": "[eiba_0_10], [40.0], [66.0], [94.72\u00b18.6]"
+    },
+    "eiba_0_19": {
+        "top1_ACC": "76.0",
+        "confidence": "88.1\u00b117.78",
+        "mistaken": [
+            "eiba_0_9",
+            "eiba_0_13",
+            "eiba_4_19",
+            "eiba_0_16",
+            "eiba_0_12"
+        ],
+        "top3_ACC": "94.0",
+        "output": "[eiba_0_19], [76.0], [94.0], [88.1\u00b117.78]"
+    },
+    "eiba_2_8": {
+        "top1_ACC": "100.0",
+        "confidence": "98.76\u00b18.36",
+        "mistaken": [],
+        "top3_ACC": "100.0",
+        "output": "[eiba_2_8], [100.0], [100.0], [98.76\u00b18.36]"
+    },
+    "eiba_4_27": {
+        "top1_ACC": "94.0",
+        "confidence": "99.16\u00b12.89",
+        "mistaken": [
+            "eiba_2_15",
+            "eiba_4_28",
+            "eiba_0_11"
+        ],
+        "top3_ACC": "98.0",
+        "output": "[eiba_4_27], [94.0], [98.0], [99.16\u00b12.89]"
+    }
+}

@@ -1,0 +1,250 @@
+{
+    "eiba_2_10": {
+        "top1_ACC": "100.0",
+        "confidence": "99.8\u00b10.75",
+        "mistaken": [],
+        "top3_ACC": "100.0",
+        "output": "[eiba_2_10], [100.0], [100.0], [99.8\u00b10.75]"
+    },
+    "eiba_1_1": {
+        "top1_ACC": "88.0",
+        "confidence": "96.92\u00b17.98",
+        "mistaken": [
+            "eiba_4_15",
+            "eiba_1_7",
+            "eiba_1_16",
+            "eiba_7_7"
+        ],
+        "top3_ACC": "96.0",
+        "output": "[eiba_1_1], [88.0], [96.0], [96.92\u00b17.98]"
+    },
+    "eiba_1_13": {
+        "top1_ACC": "100.0",
+        "confidence": "100.0\u00b10.0",
+        "mistaken": [],
+        "top3_ACC": "100.0",
+        "output": "[eiba_1_13], [100.0], [100.0], [100.0\u00b10.0]"
+    },
+    "eiba_0_19": {
+        "top1_ACC": "38.0",
+        "confidence": "93.2\u00b112.81",
+        "mistaken": [
+            "eiba_2_2",
+            "eiba_0_13",
+            "eiba_0_9",
+            "eiba_4_19",
+            "eiba_0_11",
+            "eiba_0_6",
+            "eiba_0_18",
+            "eiba_0_16"
+        ],
+        "top3_ACC": "70.0",
+        "output": "[eiba_0_19], [38.0], [70.0], [93.2\u00b112.81]"
+    },
+    "eiba_0_14": {
+        "top1_ACC": "74.0",
+        "confidence": "90.71\u00b119.06",
+        "mistaken": [
+            "eiba_4_6",
+            "eiba_4_26",
+            "eiba_0_7",
+            "eiba_22_12",
+            "eiba_4_11",
+            "eiba_4_16",
+            "eiba_9_31",
+            "eiba_0_18",
+            "eiba_9_35"
+        ],
+        "top3_ACC": "76.0",
+        "output": "[eiba_0_14], [74.0], [76.0], [90.71\u00b119.06]"
+    },
+    "eiba_4_11": {
+        "top1_ACC": "85.0",
+        "confidence": "96.33\u00b110.79",
+        "mistaken": [
+            "eiba_7_6",
+            "eiba_4_20",
+            "eiba_22_15",
+            "eiba_1_17"
+        ],
+        "top3_ACC": "89.0",
+        "output": "[eiba_4_11], [85.0], [89.0], [96.33\u00b110.79]"
+    },
+    "eiba_0_10": {
+        "top1_ACC": "30.0",
+        "confidence": "92.14\u00b116.68",
+        "mistaken": [
+            "eiba_7_6",
+            "eiba_7_8",
+            "eiba_4_13",
+            "eiba_4_22",
+            "eiba_4_14",
+            "eiba_0_18",
+            "eiba_4_30",
+            "eiba_0_12"
+        ],
+        "top3_ACC": "44.0",
+        "output": "[eiba_0_10], [30.0], [44.0], [92.14\u00b116.68]"
+    },
+    "eiba_0_5": {
+        "top1_ACC": "90.0",
+        "confidence": "95.86\u00b110.84",
+        "mistaken": [
+            "Hella_8EA_011_610_221",
+            "eiba_7_14",
+            "eiba_0_6",
+            "hitachi_s114-943A",
+            "eiba_5_1"
+        ],
+        "top3_ACC": "96.0",
+        "output": "[eiba_0_5], [90.0], [96.0], [95.86\u00b110.84]"
+    },
+    "eiba_2_7": {
+        "top1_ACC": "44.0",
+        "confidence": "91.49\u00b113.77",
+        "mistaken": [
+            "eiba_22_15",
+            "eiba_1_1",
+            "eiba_5_5",
+            "eiba_4_25",
+            "eiba_7_7",
+            "eiba_1_7",
+            "eiba_0_7",
+            "eiba_4_22",
+            "eiba_4_24",
+            "eiba_4_10",
+            "eiba_4_30",
+            "eiba_1_11"
+        ],
+        "top3_ACC": "64.0",
+        "output": "[eiba_2_7], [44.0], [64.0], [91.49\u00b113.77]"
+    },
+    "eiba_4_7": {
+        "top1_ACC": "100.0",
+        "confidence": "99.98\u00b10.05",
+        "mistaken": [],
+        "top3_ACC": "100.0",
+        "output": "[eiba_4_7], [100.0], [100.0], [99.98\u00b10.05]"
+    },
+    "eiba_4_9": {
+        "top1_ACC": "54.0",
+        "confidence": "93.45\u00b112.54",
+        "mistaken": [
+            "eiba_2_7",
+            "eiba_4_13",
+            "valeo_a0061510301",
+            "eiba_4_19",
+            "eiba_21_3",
+            "eiba_21_13",
+            "eiba_21_14",
+            "eiba_5_2",
+            "eiba_4_4"
+        ],
+        "top3_ACC": "72.0",
+        "output": "[eiba_4_9], [54.0], [72.0], [93.45\u00b112.54]"
+    },
+    "eiba_4_27": {
+        "top1_ACC": "96.0",
+        "confidence": "98.91\u00b12.97",
+        "mistaken": [
+            "eiba_9_31",
+            "eiba_0_11"
+        ],
+        "top3_ACC": "100.0",
+        "output": "[eiba_4_27], [96.0], [100.0], [98.91\u00b12.97]"
+    },
+    "eiba_4_6": {
+        "top1_ACC": "64.0",
+        "confidence": "91.73\u00b116.29",
+        "mistaken": [
+            "eiba_9_36",
+            "eiba_4_5",
+            "eiba_0_13",
+            "eiba_1_16",
+            "eiba_4_23",
+            "eiba_9_34",
+            "eiba_7_14",
+            "eiba_4_16",
+            "eiba_4_19",
+            "eiba_0_17"
+        ],
+        "top3_ACC": "84.0",
+        "output": "[eiba_4_6], [64.0], [84.0], [91.73\u00b116.29]"
+    },
+    "eiba_4_29": {
+        "top1_ACC": "98.0",
+        "confidence": "94.74\u00b113.14",
+        "mistaken": [
+            "eiba_4_15"
+        ],
+        "top3_ACC": "100.0",
+        "output": "[eiba_4_29], [98.0], [100.0], [94.74\u00b113.14]"
+    },
+    "eiba_4_24": {
+        "top1_ACC": "62.0",
+        "confidence": "94.37\u00b18.08",
+        "mistaken": [
+            "eiba_7_8",
+            "eiba_5_5",
+            "eiba_1_7",
+            "eiba_0_7",
+            "eiba_22_12",
+            "eiba_4_22",
+            "eiba_2_7",
+            "eiba_1_11"
+        ],
+        "top3_ACC": "78.0",
+        "output": "[eiba_4_24], [62.0], [78.0], [94.37\u00b18.08]"
+    },
+    "eiba_2_8": {
+        "top1_ACC": "100.0",
+        "confidence": "99.7\u00b11.32",
+        "mistaken": [],
+        "top3_ACC": "100.0",
+        "output": "[eiba_2_8], [100.0], [100.0], [99.7\u00b11.32]"
+    },
+    "eiba_0_2": {
+        "top1_ACC": "92.0",
+        "confidence": "99.75\u00b11.04",
+        "mistaken": [
+            "eiba_4_15",
+            "eiba_0_12",
+            "eiba_22_12"
+        ],
+        "top3_ACC": "96.0",
+        "output": "[eiba_0_2], [92.0], [96.0], [99.75\u00b11.04]"
+    },
+    "eiba_0_6": {
+        "top1_ACC": "98.0",
+        "confidence": "99.61\u00b12.11",
+        "mistaken": [
+            "eiba_0_16"
+        ],
+        "top3_ACC": "100.0",
+        "output": "[eiba_0_6], [98.0], [100.0], [99.61\u00b12.11]"
+    },
+    "eiba_1_9": {
+        "top1_ACC": "100.0",
+        "confidence": "98.97\u00b14.03",
+        "mistaken": [],
+        "top3_ACC": "100.0",
+        "output": "[eiba_1_9], [100.0], [100.0], [98.97\u00b14.03]"
+    },
+    "eiba_5_2": {
+        "top1_ACC": "100.0",
+        "confidence": "99.89\u00b10.7",
+        "mistaken": [],
+        "top3_ACC": "100.0",
+        "output": "[eiba_5_2], [100.0], [100.0], [99.89\u00b10.7]"
+    },
+    "eiba_1_10": {
+        "top1_ACC": "78.0",
+        "confidence": "96.64\u00b110.06",
+        "mistaken": [
+            "eiba_22_25",
+            "eiba_7_17"
+        ],
+        "top3_ACC": "90.0",
+        "output": "[eiba_1_10], [78.0], [90.0], [96.64\u00b110.06]"
+    }
+}
