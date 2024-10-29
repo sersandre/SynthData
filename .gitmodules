@@ -1,0 +1,18 @@
+[submodule "instant-ngp"]
+	path = instant-ngp
+	url = https://github.com/NVlabs/instant-ngp.git
+[submodule "nvdiffrec"]
+	path = nvdiffrec
+	url = https://github.com/NVlabs/nvdiffrec.git
+[submodule "nvdiffrecmc"]
+	path = nvdiffrecmc
+	url = https://github.com/NVlabs/nvdiffrecmc.git
+[submodule "mve"]
+	path = mve
+	url = https://github.com/simonfuhrmann/mve.git
+[submodule "mvs-texturing"]
+	path = mvs-texturing
+	url = https://github.com/nmoehrle/mvs-texturing.git
+[submodule "colmap"]
+	path = colmap
+	url = https://github.com/colmap/colmap
